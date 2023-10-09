@@ -98,8 +98,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 db.close();
                 userCursor.close();
-                finishAndRemoveTask();
-                System.exit(0);
+                finishAffinity();
             }
         });
     }
