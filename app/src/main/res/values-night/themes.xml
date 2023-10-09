@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Laba6" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">#1F1F1F</item>
+
+    </style>
+
+    <style name="Theme.Laba6" parent="Base.Theme.Laba6" />
+</resources>
